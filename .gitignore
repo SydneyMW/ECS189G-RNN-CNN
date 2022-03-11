@@ -153,23 +153,20 @@ cython_debug/
 .idea/
 .vscode/
 
-# Other stages
+
 /code_/
-
 /data/
-
 /result/
-
 /one_step/
 
 /script/stage_1_script/
 /script/stage_2_script/
 /script/stage_3_script/
-/script/stage_4_script/PyTorch.py
-/script/stage_4_script/shakespeare.py
-/script/stage_4_script/tf_shakespeare.py
+/script/stage_4_script/
+/script/misc_script
 
 /training_checkpoints/
+
 
 
 
